@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork
+END
+BTMACWROperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/BTMACWROperator.cs
+END
+WiFiControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/WiFiControlOperator.cs
+END
+BTNoSignalOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/BTNoSignalOperator.cs
+END
+BTSignalOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/BTSignalOperator.cs
+END
+CommonOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/CommonOperator.cs
+END
+RFControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/RFControlOperator.cs
+END
+WiFiMACWROperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/WiFiMACWROperator.cs
+END
+APBoardControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/APBoardControlOperator.cs
+END
+GPSControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/GPSControlOperator.cs
+END
+ICControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dev/!svn/ver/66/trunk/Study/yangyi/Zte.Manufacture/Service/BusinessWork/ICControlOperator.cs
+END

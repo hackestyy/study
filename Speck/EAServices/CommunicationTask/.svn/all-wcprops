@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask
+END
+CommandEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/CommandEventArgs.cs
+END
+SocketPort.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/SocketPort.cs
+END
+Command.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/Command.cs
+END
+INetworkInterfaceInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/INetworkInterfaceInfo.cs
+END
+CommunicationTaskFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/CommunicationTaskFactory.cs
+END
+NetworkInterfaceInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/NetworkInterfaceInfo.cs
+END
+ICommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/ICommand.cs
+END
+MessagePort.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommunicationTask/MessagePort.cs
+END

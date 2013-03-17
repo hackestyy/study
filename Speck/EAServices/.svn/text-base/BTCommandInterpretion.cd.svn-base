@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Speck.EAServices.BTCommandInterpretion.Action" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAEAAIAEAAhAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\Action.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.BT" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\BT.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.BTCommandInterpreter">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQIAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\BTCommandInterpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.Context">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAIAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.Expression" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAAAAAAAAAgAAAAAAIAAAAAAAAAEAA=</HashCode>
+      <FileName>BTCommandInterpretion\Expression.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.Literal" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABgAAoAAAAAAAAECAAAAAQAAAAAgAAAAAgAAAAAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\Literal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Speck.EAServices.BTCommandInterpretion.Objective" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABgAAAAAAAAAAAECAAAAAAAAAAAAAAAAAACIAAAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\Objective.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Speck.EAServices.BTCommandInterpretion.IAccessiable">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\IAccessiable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Speck.EAServices.BTCommandInterpretion.ITerm">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BTCommandInterpretion\ITerm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

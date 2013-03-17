@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel
+END
+WaveStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel/WaveStream.cs
+END
+FifoStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel/FifoStream.cs
+END
+WaveIn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel/WaveIn.cs
+END
+WaveNative.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel/WaveNative.cs
+END
+WaveOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dev/!svn/ver/265/trunk/Study/yangyi/Speck/EAServicesProvision/WaveModel/WaveOut.cs
+END

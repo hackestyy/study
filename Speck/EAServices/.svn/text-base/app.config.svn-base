@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Speck.EAServices.Properties.Settings1" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <system.serviceModel>
+        <bindings>
+            <netTcpBinding>
+                <binding name="netTcpBinding_INetworkInterfaceInfo">
+                    <security mode="None">
+                        <transport clientCredentialType="None" protectionLevel="EncryptAndSign" />
+                    </security>
+                </binding>
+            </netTcpBinding>
+            <wsHttpBinding>
+                <binding name="wsHttpBinding_INetworkInterfaceInfo">
+                    <security mode="Transport">
+                        <transport clientCredentialType="None" />
+                    </security>
+                </binding>
+            </wsHttpBinding>
+        </bindings>
+        <behaviors>
+            <serviceBehaviors>
+                <behavior name="metadataExposure">
+                    <serviceMetadata />
+                    <serviceDebug includeExceptionDetailInFaults="true" />
+                </behavior>
+            </serviceBehaviors>
+        </behaviors>
+        <services>
+            <service behaviorConfiguration="metadataExposure" name="ZteApp.ProductService.EAServices.CommunicationTask.NetworkInterfaceInfo">
+                <endpoint address="NetworkInterfaceInfo" binding="netTcpBinding"
+                    bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="NetworkInterfaceInfo" contract="ZteApp.ProductService.EAServices.CommunicationTask.INetworkInterfaceInfo" />
+                <endpoint address="mex" binding="mexTcpBinding" bindingConfiguration=""
+                    name="mex" contract="IMetadataExchange" />
+                <host>
+                    <baseAddresses>
+                        <add baseAddress="net.tcp://localhost:9001/EAService" />
+                    </baseAddresses>
+                </host>
+            </service>
+            <service behaviorConfiguration="metadataExposure" name="ZteApp.ProductService.EAServices.CommunicationTask.Command">
+                <endpoint binding="netTcpBinding" bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="Command" contract="ZteApp.ProductService.EAServices.CommunicationTask.ICommand" />
+                <endpoint address="mex" binding="mexTcpBinding" bindingConfiguration=""
+                    name="mex" contract="IMetadataExchange" />
+                <host>
+                    <baseAddresses>
+                        <add baseAddress="net.tcp://localhost:9001/EAService/Command" />
+                    </baseAddresses>
+                </host>
+            </service>
+            <service behaviorConfiguration="metadataExposure" name="ZteApp.ProductService.EAServices.BusinessWork.Service">
+                <endpoint binding="netTcpBinding" bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="Backlight" contract="ZteApp.ProductService.EAServices.BusinessWork.IBacklight" />
+                <endpoint binding="netTcpBinding" bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="GetBatteryStatus" contract="ZteApp.ProductService.EAServices.BusinessWork.IGetBatteryStatus" />
+                <endpoint address="mex" binding="mexTcpBinding" bindingConfiguration=""
+                    name="mex" contract="IMetadataExchange" />
+                <endpoint binding="netTcpBinding" bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="Headset" contract="ZteApp.ProductService.EAServices.BusinessWork.IHeadset" />
+                <endpoint binding="netTcpBinding" bindingConfiguration="netTcpBinding_INetworkInterfaceInfo"
+                    name="AudioLoop" contract="ZteApp.ProductService.EAServices.BusinessWork.IAudioLoop" />
+                <host>
+                    <baseAddresses>
+                        <add baseAddress="net.tcp://localhost:9001/EAService/Services" />
+                    </baseAddresses>
+                </host>
+            </service>
+        </services>
+    </system.serviceModel>
+    <applicationSettings>
+        <Speck.EAServices.Properties.Settings1>
+            <setting name="RawSocketPort" serializeAs="String">
+                <value>9050</value>
+            </setting>
+        </Speck.EAServices.Properties.Settings1>
+    </applicationSettings>
+</configuration>

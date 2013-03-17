@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E95A7E8-A92B-4E58-8970-ADA9E609872E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZteApp.ProductService.EAServices</RootNamespace>
+    <AssemblyName>EAServices</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessWork\APBoardControlOperator.cs" />
+    <Compile Include="BusinessWork\AudioLoop.cs" />
+    <Compile Include="BusinessWork\Backlight.cs" />
+    <Compile Include="BusinessWork\BTMACWROperator.cs" />
+    <Compile Include="BusinessWork\BTNoSignalOperator.cs" />
+    <Compile Include="BusinessWork\BTSignalOperator.cs" />
+    <Compile Include="BusinessWork\CommonOperator.cs" />
+    <Compile Include="BusinessWork\GPSControlOperator.cs" />
+    <Compile Include="BusinessWork\Headset.cs" />
+    <Compile Include="BusinessWork\IAudioLoop.cs" />
+    <Compile Include="BusinessWork\ICControlOperator.cs" />
+    <Compile Include="BusinessWork\IBacklight.cs" />
+    <Compile Include="BusinessWork\IGetBatteryStatus.cs" />
+    <Compile Include="BusinessWork\IHeadset.cs" />
+    <Compile Include="BusinessWork\RFControlOperator.cs" />
+    <Compile Include="BusinessWork\WiFiControlOperator.cs" />
+    <Compile Include="BusinessWork\WiFiMACWROperator.cs" />
+    <Compile Include="CommandInterpretion\BT.cs" />
+    <Compile Include="CommandInterpretion\BTCommandInterpreter.cs" />
+    <Compile Include="CommandInterpretion\IAccessiable.cs" />
+    <Compile Include="CommandInterpretion\ICommandInterpretion.cs" />
+    <Compile Include="CommandInterpretion\WIFI.cs" />
+    <Compile Include="CommandInterpretion\WIFICommandInterpreter.cs" />
+    <Compile Include="Common\ArrayTool.cs" />
+    <Compile Include="Common\SocketCmdOperator.cs" />
+    <Compile Include="Common\SocketServer.cs" />
+    <Compile Include="CommunicationTask\Command.cs" />
+    <Compile Include="CommunicationTask\CommandEventArgs.cs" />
+    <Compile Include="CommunicationTask\CommunicationTaskFactory.cs" />
+    <Compile Include="CommunicationTask\ICommand.cs" />
+    <Compile Include="CommunicationTask\INetworkInterfaceInfo.cs" />
+    <Compile Include="CommunicationTask\MessagePort.cs" />
+    <Compile Include="CommunicationTask\NetworkInterfaceInfo.cs" />
+    <Compile Include="CommunicationTask\SocketPort.cs" />
+    <Compile Include="Helper\ASCIIRepresentor.cs" />
+    <Compile Include="Helper\Extensions.cs" />
+    <Compile Include="Helper\StringTokenizer.cs" />
+    <Compile Include="Helper\Token.cs" />
+    <Compile Include="NICTask\NetworkUtilization.cs" />
+    <Compile Include="NICTask\NICTaskFactory.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Service1.Designer.cs">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ServiceInstaller.Designer.cs">
+      <DependentUpon>ServiceInstaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceTask.cs" />
+    <Compile Include="Properties\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AssemblySign.bat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BTCommandInterpretion.cd" />
+    <None Include="Deployment\EngineeringServices.bat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Deployment\EngineeringServices_Shortcut.lnk">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{a4ebde4d-7fc9-47c7-a611-e5e86960c37c}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EAServicesProvision\EAServicesProvision.csproj">
+      <Project>{fbfb1a3f-5f64-4f2e-a892-aa76c8aa2570}</Project>
+      <Name>EAServicesProvision</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Deployment\readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service1.resx">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork
+END
+BTMACWROperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/BTMACWROperator.cs
+END
+WiFiControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dev/!svn/ver/253/trunk/Study/yangyi/Speck/EAServices/BusinessWork/WiFiControlOperator.cs
+END
+BTNoSignalOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/BusinessWork/BTNoSignalOperator.cs
+END
+Headset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/Headset.cs
+END
+BTSignalOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/BusinessWork/BTSignalOperator.cs
+END
+desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/BusinessWork/desktop.ini
+END
+RFControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/253/trunk/Study/yangyi/Speck/EAServices/BusinessWork/RFControlOperator.cs
+END
+APBoardControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/APBoardControlOperator.cs
+END
+IHeadset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/IHeadset.cs
+END
+IGetBatteryStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/IGetBatteryStatus.cs
+END
+Backlight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/Backlight.cs
+END
+AudioLoop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/AudioLoop.cs
+END
+IBacklight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/IBacklight.cs
+END
+CommonOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/BusinessWork/CommonOperator.cs
+END
+IAudioLoop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/IAudioLoop.cs
+END
+WiFiMACWROperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/BusinessWork/WiFiMACWROperator.cs
+END
+GPSControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dev/!svn/ver/253/trunk/Study/yangyi/Speck/EAServices/BusinessWork/GPSControlOperator.cs
+END
+ICControlOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/BusinessWork/ICControlOperator.cs
+END

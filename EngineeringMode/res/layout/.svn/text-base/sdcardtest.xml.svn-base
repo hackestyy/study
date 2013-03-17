@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+    android:id="@+id/sd_title" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:textSize="22sp"
+    android:layout_alignParentTop="true"
+    android:gravity="center_horizontal">
+    </TextView>
+
+<LinearLayout 
+	android:id="@+id/internal_sd_ll"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:layout_below="@id/sd_title"
+	android:orientation="vertical">
+    
+	<TextView
+	android:id="@+id/internal_sd_title" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:textSize="20sp"
+	android:gravity="center_horizontal">
+	</TextView>
+	
+	<TextView  
+	android:id="@+id/internal_sd_status"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:gravity="center_horizontal">
+	</TextView>
+	
+	<TextView  
+	android:id="@+id/internal_sd_used"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:gravity="center_horizontal">
+	</TextView>
+	
+	<TextView  
+	android:id="@+id/internal_sd_total"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:gravity="center_horizontal">
+	</TextView>
+	
+	<TextView  
+	android:id="@+id/internal_sd_available"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:gravity="center_horizontal">
+	</TextView>
+    
+    <TextView
+    android:id="@+id/external_sd_title" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:layout_marginTop = "10dp"
+    android:textSize="20sp"
+    android:gravity="center_horizontal">
+    </TextView>
+
+    <TextView  
+    android:id="@+id/external_sd_status"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    </TextView>
+    
+    <TextView  
+    android:id="@+id/external_sd_used"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    </TextView>
+    
+    <TextView  
+    android:id="@+id/external_sd_total"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    </TextView>
+    
+    <TextView  
+    android:id="@+id/external_sd_available"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    </TextView>
+
+</LinearLayout>
+
+	<Button
+	android:id="@+id/sd_b"
+	android:layout_height="wrap_content"
+	android:layout_width="wrap_content" 
+	android:layout_alignParentBottom="true"
+	android:layout_centerInParent="true">
+	</Button>
+	
+</RelativeLayout>

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dev/!svn/ver/268/trunk/Study/yangyi/Speck/Core
+END
+Behavior2012_6_7.cs.bak
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Behavior2012_6_7.cs.bak
+END
+TaskExecuteFaculty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/TaskExecuteFaculty.cs
+END
+Speck.Core.dll.log4net
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Speck.Core.dll.log4net
+END
+BehaviorException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/BehaviorException.cs
+END
+TaskExcuteProcess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/TaskExcuteProcess.cs
+END
+TaskEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/TaskEventArgs.cs
+END
+Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dev/!svn/ver/263/trunk/Study/yangyi/Speck/Core/Core.csproj
+END
+PlugEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/PlugEventArgs.cs
+END
+Speck.Core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Speck.Core.xml
+END
+ProgressChangedEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/ProgressChangedEventArgs.cs
+END
+BehaviorEntityType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/BehaviorEntityType.cs
+END
+TaskScheduler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/TaskScheduler.cs
+END
+Component.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/Component.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/packages.config
+END
+BehaviorEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/BehaviorEventArgs.cs
+END
+BehaviorExecutePattern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/BehaviorExecutePattern.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/App.config
+END
+Priority.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/Priority.cs
+END
+ISchduler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/ISchduler.cs
+END
+ITaskProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/ITaskProvider.cs
+END
+Resource.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/Resource.Designer.cs
+END
+WorkStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/WorkStatus.cs
+END
+EntityEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/EntityEventArgs.cs
+END
+XMLTaskProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/XMLTaskProvider.cs
+END
+Behavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/Behavior.cs
+END
+Core.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Core.csproj.user
+END
+Core.vsdoc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Core.vsdoc
+END
+Task.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/Task.cs
+END
+Resource.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/Core/Resource.resx
+END
+IPlugable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/IPlugable.cs
+END
+ScheduleReceipt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/Core/ScheduleReceipt.cs
+END

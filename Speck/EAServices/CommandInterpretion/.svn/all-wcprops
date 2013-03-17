@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion
+END
+Action.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/Action.cs
+END
+WIFI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/WIFI.cs
+END
+Expression.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/Expression.cs
+END
+ITerm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/ITerm.cs
+END
+WIFICommandInterpreter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/WIFICommandInterpreter.cs
+END
+Context.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dev/!svn/ver/172/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/Context.cs
+END
+BT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/BT.cs
+END
+IAccessiable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/IAccessiable.cs
+END
+BTCommandInterpreter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/BTCommandInterpreter.cs
+END
+ICommandInterpretion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/EAServices/CommandInterpretion/ICommandInterpretion.cs
+END

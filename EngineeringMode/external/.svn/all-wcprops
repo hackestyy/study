@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external
+END
+signapk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/signapk.bat
+END
+platform.pk8
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/platform.pk8
+END
+signapk.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/signapk.jar
+END
+classes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/classes.jar
+END
+platform.x509.pem
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/platform.x509.pem
+END
+EngineeringMode_sign.apk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dev/!svn/ver/426/trunk/Study/yangyi/EngineeringMode/external/EngineeringMode_sign.apk
+END

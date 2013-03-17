@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/BusinessLib
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/Stdafx.h
+END
+BusinessLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/BusinessLib.cpp
+END
+BusinessLib.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/BusinessLib.vcxproj.filters
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/app.rc
+END
+BusinessLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/BusinessLib.h
+END
+BusinessLib.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/BusinessLib.vcxproj.user
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/app.ico
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/Stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/ReadMe.txt
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/AssemblyInfo.cpp
+END
+BusinessLib.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dev/!svn/ver/261/trunk/Study/yangyi/Speck/BusinessLib/BusinessLib.vcxproj
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dev/!svn/ver/211/trunk/Study/yangyi/Speck/BusinessLib/resource.h
+END

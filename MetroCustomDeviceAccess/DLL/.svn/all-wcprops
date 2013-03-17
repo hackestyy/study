@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL
+END
+fx2device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/fx2device.cpp
+END
+dll.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/dll.vcxproj.user
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/support.h
+END
+public.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/public.h
+END
+dll.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/dll.vcxproj
+END
+fx2device.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/fx2device.h
+END
+WUDFOsrUsbPublic.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/WUDFOsrUsbPublic.h
+END
+repeater.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/DLL/repeater.h
+END

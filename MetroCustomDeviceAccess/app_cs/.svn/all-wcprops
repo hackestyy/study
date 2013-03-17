@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Constants.cs
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/App.xaml
+END
+Scenario2_DeviceProperties.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario2_DeviceProperties.xaml
+END
+Scenario1_DeviceConnect.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario1_DeviceConnect.xaml.cs
+END
+MainPage.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/MainPage.xaml
+END
+StoreManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/StoreManifest.xml
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/App.xaml.cs
+END
+Scenario2_DeviceProperties.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario2_DeviceProperties.xaml.cs
+END
+MainPage.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/MainPage.xaml.cs
+END
+Package.appxmanifest
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Package.appxmanifest
+END
+Scenario3_DeviceEvents.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario3_DeviceEvents.xaml
+END
+Scenario3_DeviceEvents.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario3_DeviceEvents.xaml.cs
+END
+DeviceList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/DeviceList.cs
+END
+Scenario4_DeviceAsync.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario4_DeviceAsync.xaml
+END
+Scenario4_DeviceAsync.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario4_DeviceAsync.xaml.cs
+END
+CustomDeviceAccess.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/CustomDeviceAccess.csproj
+END
+Scenario1_DeviceConnect.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dev/!svn/ver/68/trunk/Study/yangyi/MetroCustomDeviceAccess/app_cs/Scenario1_DeviceConnect.xaml
+END
